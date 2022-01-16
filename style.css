@@ -1,0 +1,29 @@
+body{
+    font-family: 'Comfortaa', cursive;
+    background-image:url("e.jpg");
+    background-position: 1%;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+padding:10px;
+color:darkblue
+}
+
+#status
+{
+font-size: 18px;
+}
+canvas{
+    border: darkblue 3px solid;
+    margin-top:70px;
+    border-radius: 20px;
+
+}
+h3{
+    padding:10px;
+}
+
+
